@@ -16,6 +16,8 @@ parrot1 = {
 
 console.log(parrot1)
 
+
+
 //inheritance of object properties can happen when you set a prototype that multiple objects 
 // can inherit those properties. 
 
