@@ -21,9 +21,7 @@ nums.filter( function(num) {
 })
 
 // MAP METHOD : This method is used to map each array item over to another array's item, based on whatever work is performed inside the function that is passed-in to the map as a parameter. 
-[0,10,20,30,40,50].map( function(num) {
-    return num / 10
-})
+
 
 
 //Map
@@ -47,3 +45,6 @@ const uniqueFruits = new Set(repetitiveFruits);
 console.log(uniqueFruits);
 
 //can easily filter for unique members
+
+//More advanced data structures are : 
+//Queues, Linked Lists, Trees and Graphs
